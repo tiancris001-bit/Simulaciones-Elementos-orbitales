@@ -1,9 +1,12 @@
 cff-version: 1.2.0
 message: "Si usas este software, por favor cítalo de la siguiente manera."
 authors:
-  - family-names: "<Echeverria T. - Pacheco V.>"
-    given-names: "<Cristian C. - Diego A.>"
-    affiliation: "<Universidad Distrital Francisco José de Caldas>"
+  - family-names: "Echeverria T."
+    given-names: "Cristian C."
+    affiliation: "Universidad Distrital Francisco José de Caldas"
+  - family-names: "Pacheco V."
+    given-names: "Diego A."
+    affiliation: "Universidad Distrital Francisco José de Caldas"
 title: "Simulaciones de Elementos Orbitales: Acercamiento del asteroide Eros a la Tierra"
 version: 1.0.0
 date-released: "2026-10-09"
