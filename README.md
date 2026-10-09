@@ -2,7 +2,7 @@
 
 Colección de simulaciones interactivas en **VPython** para el estudio y visualización de los **elementos orbitales** de los cuerpos del Sistema Solar. Cada simulación ilustra uno o varios conceptos de la mecánica celeste: semiejes, excentricidad, inclinación, nodos, argumento del perihelio, anomalía verdadera, solsticios, equinoccios y acercamientos entre cuerpos.
 
-Este material fue desarrollado como parte de un **trabajo de grado** en el área de astronomía y educación.
+Este material fue desarrollado como parte del **trabajo de grado** de Cristian C. Echeverria T. y Diego A. Pacheco V., estudiantes de la **Universidad Distrital Francisco José de Caldas**.
 
 ---
 
@@ -143,14 +143,23 @@ La posición se obtiene resolviendo la **ecuación de Kepler** `M = E − e·sin
 
 Si usas este software en tu investigación o docencia, por favor cítalo así:
 
-> <Tu Apellido>, <Tu Nombre>. (2026). *Simulaciones de Elementos Orbitales* (Versión 1.0.0) [Software]. GitHub. https://github.com/tiancris001-bit/Simulaciones-Elementos-orbitales
+> Echeverria T., C. C., & Pacheco V., D. A. (2026). *Simulaciones de Elementos Orbitales: Acercamiento del asteroide Eros a la Tierra* (Versión 1.0.0) [Software]. Universidad Distrital Francisco José de Caldas. https://github.com/tiancris001-bit/Simulaciones-Elementos-orbitales
 
-O usa el botón **"Cite this repository"** en la barra lateral de GitHub.
+O usa el botón **"Cite this repository"** en la barra lateral de GitHub, que genera automáticamente la cita en formato APA y BibTeX a partir del archivo `CITATION.cff`.
 
 ---
 
 ## Licencia
 
+Este proyecto está bajo la licencia **Apache 2.0**. Consulta el archivo `LICENSE` para más detalles.
+
+---
+
+## Autores
+
+**Cristian C. Echeverria T.**  
+**Diego A. Pacheco V.**  
+Universidad Distrital Francisco José de Caldas
 Este proyecto está bajo la licencia **Apache 2.0**. Consulta el archivo `LICENSE` para más detalles.
 
 ---
