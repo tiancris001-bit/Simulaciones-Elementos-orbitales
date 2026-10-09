@@ -1,1 +1,24 @@
-
+cff-version: 1.2.0
+message: "Si usas este software, por favor cítalo de la siguiente manera."
+authors:
+  - family-names: "<Echeverria T. - Pacheco V.>"
+    given-names: "<Cristian C. - Diego A.>"
+    affiliation: "<Universidad Distrital Francisco José de Caldas>"
+title: "Simulaciones de Elementos Orbitales: Acercamiento del asteroide Eros a la Tierra"
+version: 1.0.0
+date-released: "2026-10-09"
+license: Apache-2.0
+url: "https://github.com/tiancris001-bit/Simulaciones-Elementos-orbitales"
+repository-code: "https://github.com/tiancris001-bit/Simulaciones-Elementos-orbitales"
+keywords:
+  - astronomía
+  - mecánica celeste
+  - elementos orbitales
+  - VPython
+  - Eros
+  - simulación
+abstract: >
+  Simulación interactiva en VPython del acercamiento del asteroide 433 Eros
+  a la Tierra, usando elementos orbitales keplerianos. Incluye gráficas de
+  distancia Tierra-Eros y distancias al Sol, con deslizadores para modificar
+  parámetros orbitales en tiempo real.
